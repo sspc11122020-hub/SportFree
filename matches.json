@@ -36,7 +36,7 @@
         }
       },
       {
-        "url": "https://pub-1031d7c7a4f64d1792782314a1de5eb8.r2.dev/hls/1/stream.m3u8",
+        "url": "https://pub-0ae58bcbbb5a42719010d2861da6ddb8.r2.dev/hls/1/stream.m3u8",
         "headers": {
           "accept-language": "en-US",
           "referer": "https://live.bb6.dpdns.org/",
