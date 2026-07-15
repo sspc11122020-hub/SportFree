@@ -28,7 +28,15 @@
         }
       },
       {
-        "url": "https://pub-1691bbd5aec248a1b581e6fc910a6142.r2.dev/hls/1/stream.m3u8",
+        "url": "https://2.simokora.com/my-hls/h9asfma10d5/source/index.m3u8",
+        "headers": {
+          "accept-language": "en-US",
+          "referer": "https://p1.paanda-hd.com/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+      },
+      {
+        "url": "https://pub-1031d7c7a4f64d1792782314a1de5eb8.r2.dev/hls/1/stream.m3u8",
         "headers": {
           "accept-language": "en-US",
           "referer": "https://live.bb6.dpdns.org/",
