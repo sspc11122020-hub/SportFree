@@ -20,11 +20,11 @@
   }
       },
       {
-        "url": "https://2.simokora.com/my-hls/h9asfma10d5/master.m3u8",
+        "url": "https://g416eg23plve.24841253.net:8443/hls/b1kgi3pmw0rnq.m3u8?s=ipmcda4UvGdyTneCla3GkQ&e=1784128981",
         "headers": {
-          "accept-language": "en-US",
-          "referer": "https://p1.paanda-hd.com/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+          "accept-language": "en-US,en;q=0.9,ar-JO;q=0.8,ar;q=0.7,tr-TR;q=0.6,tr;q=0.5",
+          "referer": "https://wardprofile.net/",
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
         }
       },
       {
