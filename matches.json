@@ -12,12 +12,12 @@
     "iframeUrl": "https://liva7hd.info/tv/bein1/",
     "streams": [
       {
-        "url": "https://3.simokora.com/my-hls/0wo68p0w54v/source/index.m3u8",
-        "headers": {
-          "accept-language": "en-US",
-          "referer": "https://24.1yalla-shoot.space/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
+  "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8",
+  "headers": {
+    "accept-language": "en-US,en;q=0.9,ar-JO;q=0.8,ar;q=0.7,tr-TR;q=0.6,tr;q=0.5",
+    "referer": "https://cup.shootwithyalla.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+  }
       },
       {
         "url": "https://2.simokora.com/my-hls/h9asfma10d5/master.m3u8",
@@ -27,14 +27,13 @@
           "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
       },
-   {
-  "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8",
-  "headers": {
-    "accept-language": "en-US,en;q=0.9,ar-JO;q=0.8,ar;q=0.7,tr-TR;q=0.6,tr;q=0.5",
-    "referer": "https://cup.shootwithyalla.com/",
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-  }
-}
+      {
+        "url": "https://2.simokora.com/my-hls/h9asfma10d5/source/index.m3u8",
+        "headers": {
+          "accept-language": "en-US",
+          "referer": "https://p1.paanda-hd.com/",
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
       },
       {
         "url": "https://pub-aab39072ed264119a1a287b3ba248412.r2.dev/hls/1/stream.m3u8",
