@@ -12,14 +12,6 @@
     "iframeUrl": "https://liva7hd.info/tv/bein1/",
     "streams": [
       {
-        "url": "https://3.simokora.com/my-hls/0wo68p0w54v/source/index.m3u8",
-        "headers": {
-          "accept-language": "en-US",
-          "referer": "https://24.1yalla-shoot.space/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-      },
-      {
         "url": "https://2.simokora.com/my-hls/h9asfma10d5/master.m3u8",
         "headers": {
           "accept-language": "en-US",
@@ -28,15 +20,7 @@
         }
       },
       {
-        "url": "https://2.simokora.com/my-hls/h9asfma10d5/source/index.m3u8",
-        "headers": {
-          "accept-language": "en-US",
-          "referer": "https://p1.paanda-hd.com/",
-          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-      },
-      {
-        "url": "https://pub-aab39072ed264119a1a287b3ba248412.r2.dev/hls/1/stream.m3u8",
+        "url": "https://pub-1031d7c7a4f64d1792782314a1de5eb8.r2.dev/hls/1/stream.m3u8",
         "headers": {
           "accept-language": "en-US",
           "referer": "https://live.bb6.dpdns.org/",
