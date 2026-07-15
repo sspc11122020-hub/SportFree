@@ -1,0 +1,35 @@
+name: مباريات
+
+on:
+  schedule:
+    - cron: '*/10 * * * *' # يعمل كل 10 دقائق
+  workflow_dispatch: # يتيح لك تشغيله يدوياً للتجربة
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Dependencies
+        # إضافة الأمر الخاص بتحميل متصفح كروم الخاص بـ Puppeteer
+        run: |
+          npm install axios puppeteer
+          npx puppeteer browsers install chrome
+
+      - name: Run Scraper
+        run: node football.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add matches.json
+          git commit -m "Update matches data [skip ci]" || exit 0
+          git push
